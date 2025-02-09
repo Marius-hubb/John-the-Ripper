@@ -8,8 +8,8 @@ This lab demonstrates how to perform an active online attack to audit system's p
 
 <h2>Lab walk-through:</h2>
 
-<p align="center">
+<p align="center">On a Linux machine the user passwords are split between:
 <br/>
-<img src="https://i.imgur.com/Pq9KMvV.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0N2wRVO.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
