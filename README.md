@@ -1,4 +1,4 @@
-<h1>Auditing System Passwords using John-the-Ripper</h1>
+<h1>Auditing system passwords using John The Ripper</h1>
 
  ## [Video Demonstration](https://drive.google.com/file/d/1eJZrk0qpOimJQMoXbZMryWMkMdkVBmLb/view?usp=drive_link)
 
