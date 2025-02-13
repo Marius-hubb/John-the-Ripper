@@ -1,6 +1,6 @@
 <h1>Auditing system passwords using John The Ripper</h1>
 
- ## [Video Demonstration](https://drive.google.com/file/d/1GK1t17ISLAwEk4YCENDHAI0WkfwPp-_f/view?usp=sharing)
+ ## [Video Demonstration (7:19)](https://drive.google.com/file/d/1GK1t17ISLAwEk4YCENDHAI0WkfwPp-_f/view?usp=sharing)
 
 <h2>Description</h2>
 This lab demonstrates how to perform an audit to system's password using John the Ripper tool.
