@@ -10,6 +10,6 @@ This lab demonstrates how to perform an audit to system's password using John th
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/VgQR612.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VgQR612.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
